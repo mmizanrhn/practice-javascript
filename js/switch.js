@@ -14,6 +14,6 @@ switch(message){
 	alert("It's true");
 	break;
 
-	case "default":
+	default:
 	alert("It's false");
 }
