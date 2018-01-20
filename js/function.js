@@ -1,6 +1,6 @@
-function addTwoNumbers(a,b){
-	var result = a + b;
+function addTwoNumbers(x,y){
+	var result = x + y;
 	return result;
 }
-var total = addTwoNumbers(50,100);
+var total = addTwoNumbers(70,120);
 alert(total);
